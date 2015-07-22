@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: /bin/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+
+Sitemap: http://www.znb.co.il/sitemap.xml
