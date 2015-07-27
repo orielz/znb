@@ -2,121 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de7d329-5d96-4908-9119-fc153e40bfcc" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\WebWorkbench.mswwsettings" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\bin\MailHandler.ashx" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\bin\MailHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\grid.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\menu-style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\site.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\css\tm-slider.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\BeFunky_bd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\SaveStone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\body-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\building-destroy.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\button2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\carousel-next.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\carousel-prev.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\flickr.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\footer-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\input-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker - Copy.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker-2.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker-3.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker-4.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker-5.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker-6.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\marker.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\menu-li-active.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\menu-li-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\menu-spacer.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\menu-ul-tail.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page1-img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page2-img-exsoil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page2-img-infra.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page2-img-logging.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page2-img-metalcutting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-b144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-bar-homes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-empty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-shafir.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\page4-img-ybz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pagination-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pagination-num.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-10.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-11.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-13.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-2.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-5.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-6.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-8.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\pic-9.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\row1-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\row2-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\search-button-tail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\search-form.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\slider-img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\slider-img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\slider-img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\slider-img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\technorati.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\images\רשימת מוזמנים.gsheet" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\index-1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\index-2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\index-3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\Lobster_400.font.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\PIE.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\PT_Sans_Narrow_400.font.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\PT_Sans_Narrow_700.font.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\backgroundPosition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\contact-form.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\cufon-replace.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\cufon-yui.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\easyTooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\ga.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\html5.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-1-2-4.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-1-2-ready-1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-3-ready-1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-4-ready-1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-ready-1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index-ready-2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\jcarousellite_1.0.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\jquery-1.5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\script.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\superfish.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\tms.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\js\tms_presets.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\mainfest.mf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\site.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\site.v11.suo.doc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\unminify-version\index-1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\unminify-version\index-2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\unminify-version\index-3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\unminify-version\index-4.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\unminify-version\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\הריסת-מבנים.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Oriel.zaken\Google Drive\updated-site\site\צור-קשר.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/site.iml" afterPath="$PROJECT_DIR$/.idea/site.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,35 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="27" />
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="193" column="18" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
               <folding>
                 <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1437727857228" expanded="false" signature="2046:2098" placeholder="..." />
-                <marker date="1437727857228" expanded="true" signature="2099:2317" placeholder="..." />
+                <marker date="1437996759153" expanded="true" signature="2046:2098" placeholder="..." />
+                <marker date="1437996759153" expanded="true" signature="2099:2317" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-form.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/contact-form.js">
+      <file leaf-file-name=".girignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.girignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="625" column="12" selection-start-line="625" selection-start-column="12" selection-end-line="625" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.9234234">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -198,18 +74,19 @@
         <option value="$PROJECT_DIR$/src/mainfest.mf" />
         <option value="$PROJECT_DIR$/src/sitemap.xml" />
         <option value="$PROJECT_DIR$/src/הריסות.html" />
+        <option value="$PROJECT_DIR$/src/צור-קשר.html" />
+        <option value="$PROJECT_DIR$/src/קהל-לקוחותינו.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/js/contact-form.js" />
         <option value="$PROJECT_DIR$/src/הריסת-מבנים.html" />
         <option value="$PROJECT_DIR$/src/כריית-מנהרות.html" />
         <option value="$PROJECT_DIR$/src/כריתת-עצים.html" />
         <option value="$PROJECT_DIR$/src/עבודות-עפר-חפירות.html" />
         <option value="$PROJECT_DIR$/src/פירוק-מבנים-לשימור.html" />
-        <option value="$PROJECT_DIR$/src/צור-קשר.html" />
         <option value="$PROJECT_DIR$/src/קבלן-תשתיות.html" />
-        <option value="$PROJECT_DIR$/src/קהל-לקוחותינו.html" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/js/contact-form.js" />
         <option value="$PROJECT_DIR$/src/css/style.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/.girignore" />
       </list>
     </option>
   </component>
@@ -269,20 +146,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -307,7 +170,7 @@
       <recent name="C:\Users\Oriel.zaken\Google Drive\updated-site\site\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.הריסת-מבנים.html">
     <configuration default="false" name="הריסת-מבנים.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/src/הריסת-מבנים.html">
       <method />
     </configuration>
@@ -362,8 +225,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.הריסת-מבנים.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.הריסת-מבנים.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -378,6 +241,13 @@
       <option name="number" value="Default" />
       <updated>1437551915491</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added site dir to root">
+      <created>1437989485504</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1437989485504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,21 +256,22 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37671232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49464667" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49464667" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -414,6 +285,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added site dir to root" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added site dir to root" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -425,8 +300,8 @@
           <caret line="175" column="122" selection-start-line="175" selection-start-column="122" selection-end-line="175" selection-end-column="122" />
           <folding>
             <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1437727857228" expanded="false" signature="2046:2098" placeholder="..." />
-            <marker date="1437727857228" expanded="true" signature="2099:2317" placeholder="..." />
+            <marker date="1437996759153" expanded="true" signature="2046:2098" placeholder="..." />
+            <marker date="1437996759153" expanded="true" signature="2099:2317" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -479,13 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.01934016">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.girignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9431438">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -679,59 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/הריסות.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/הריסת-מבנים.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/כריית-מנהרות.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/כריתת-עצים.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/עבודות-עפר-חפירות.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/פירוק-מבנים-לשימור.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/צור-קשר.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/קבלן-תשתיות.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -772,23 +591,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/הריסות.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="52.307693">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1437668837948" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437668837948" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/הריסת-מבנים.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.230769">
+          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="185" selection-end-column="37" />
+          <folding>
+            <marker date="1437996222179" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996222179" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/כריית-מנהרות.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077">
+          <caret line="184" column="37" selection-start-line="184" selection-start-column="37" selection-end-line="184" selection-end-column="37" />
+          <folding>
+            <marker date="1437996316432" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996316432" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/כריתת-עצים.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077">
+          <caret line="183" column="37" selection-start-line="183" selection-start-column="37" selection-end-line="183" selection-end-column="37" />
+          <folding>
+            <marker date="1437996325926" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996325926" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/עבודות-עפר-חפירות.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077">
+          <caret line="183" column="37" selection-start-line="183" selection-start-column="37" selection-end-line="183" selection-end-column="37" />
+          <folding>
+            <marker date="1437996336264" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996336264" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/פירוק-מבנים-לשימור.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077">
+          <caret line="183" column="37" selection-start-line="183" selection-start-column="37" selection-end-line="183" selection-end-column="37" />
+          <folding>
+            <marker date="1437996343546" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996343546" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/קבלן-תשתיות.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.576923">
+          <caret line="169" column="46" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+          <folding>
+            <marker date="1437996353676" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1437996353676" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="625" column="12" selection-start-line="625" selection-start-column="12" selection-end-line="625" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.12914485">
+          <caret line="592" column="21" selection-start-line="592" selection-start-column="21" selection-end-line="592" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="27" />
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="193" column="18" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1437727857228" expanded="false" signature="2046:2098" placeholder="..." />
-            <marker date="1437727857228" expanded="true" signature="2099:2317" placeholder="..." />
+            <marker date="1437996759153" expanded="true" signature="2046:2098" placeholder="..." />
+            <marker date="1437996759153" expanded="true" signature="2099:2317" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.girignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9234234">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,19 @@
+﻿CACHE MANIFEST
+# 2014-04-20:v2
+
+# Explicitly cached entries
+css/app.css
+js/app.js
+js/vendor.js
+
+# All other resources (e.g. sites) require the user to be online. 
+NETWORK:
+*
+
+# Additional resources to cache
+CACHE:
+images/slider-img1.jpg
+images/slider-img2.jpg
+images/slider-img3.jpg
+images/slider-img4.jpg
+images/page1-img1.jpg

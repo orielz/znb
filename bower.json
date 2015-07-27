@@ -1,0 +1,19 @@
+{
+  "name": "znb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/orielz/znb",
+  "authors": [
+    "orielz <orielux@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sanitize-css": "~1.1.0"
+  }
+}

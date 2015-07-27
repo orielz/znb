@@ -1,0 +1,109 @@
+.menu {
+	padding:0; 
+	width:100%;
+}
+.menu li {
+	float:left; 
+	position:relative;
+	background:-url(../images/menu-li-active.gif) 0 0 repeat-x #151413;
+}
+.menu li a {
+	display: block;
+	font-size: 20px;
+	line-height: 40px;
+	padding: 0 0 5px 0;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #333;
+	background-position: 0 0;
+	background-repeat: repeat-x;
+}
+.menu li a.item {
+	width: 237px;
+}
+.menu li a strong {
+	display:block;
+	font-weight:normal;
+	background:url(../images/menu-spacer.png) right 10px no-repeat;
+	background-color: #333;
+
+}
+.menu li a.item-1 {
+	text-align:left; 
+	padding-left:65px; 
+	width:125px;
+}
+.menu li a.item-1 strong strong {
+	display:inline-block;
+	padding-right:22px; 
+	background:url(../images/pic-1.png) right 29px no-repeat;
+}
+.menu li a.active {
+	background:url(../images/menu-li-active.gif) 0 0 repeat-x #ff5c02 !important;
+	padding-bottom: 5px;
+}
+
+.menu ul {
+	position:		absolute;
+	padding:        13px 23px 18px;
+    text-align:     right;
+    
+	top:			-999em;
+	width:			191px;
+	background:		url(../images/menu-ul-tail.png) 0 0 repeat;
+}
+.menu ul ul {
+	padding:		0;
+	background:		none;
+}
+.menu ul li {width:	100%;}
+.menu li:hover {visibility:	inherit; }
+.menu li li {padding:8px 0; background:none;}
+.menu li li a {
+	display:inline-block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding:		0 0 0 10px;
+	font-size:		15px;
+	line-height:	1.2em;
+	text-align:		left;
+	background: 	none; /*url(../images/marker.png) 0px 7px no-repeat !important;*/
+	text-transform:	none;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+.menu li li a:hover, .menu li li.sfHover > a {color:#ff7905;}
+.menu li li.sfHover > a {background: url(../images/marker.gif) 0px 7px no-repeat !important;}
+
+.menu li li li { 
+	margin-bottom:2px; 
+	padding:0;
+}
+.menu li li li a {
+	padding:0 0 0 19px; 
+	background: url(../images/marker-2.gif) 10px 16px no-repeat #000 !important; 
+	display:block; 
+	color:#fff !important; 
+	line-height:36px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+.menu li li li a:hover {background-color:#ff6b03 !important;}
+.menu li:hover ul, .menu li.sfHover ul {
+	/*right:			8px;*/
+	top:			45px;
+	z-index:		999;
+}
+ul.menu li:hover li ul, ul.menu li.sfHover li ul {
+	top:			-999em;
+}
+ul.menu li li:hover ul, ul.menu li li.sfHover ul {
+	left:			169px;
+	top:			0px;
+	z-index:		9999;
+}
+ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
+	top:			-999em;
+}
