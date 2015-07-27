@@ -1,0 +1,19 @@
+﻿RewriteOptions inherit
+
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^znb\.co\.il$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.znb\.co\.il$
+RewriteRule ^index\-3\.html$ "http\:\/\/znb\.co\.il\/" [R=301,L]
+
+# Specify search friendly URLs
+RewriteRule ^עבודות-עפר$ /עבודות-עפר-חפירות.html [L]
+RewriteRule ^חפירות$ /עבודות-עפר-חפירות.html [L]
+RewriteRule ^הריסת-מבנים$ /הריסת-מבנים.html [L]
+RewriteRule ^כריית-מנהרות$ /כריית-מנהרות.html [L]
+RewriteRule ^כריתת-עצים$ /כריתת-עצים.html [L]
+RewriteRule ^פירוק-מבנים-לשימור$ /שימור-מבנים.html [L]
+RewriteRule ^צור-קשר$ /צור-קשר.html [L]
+RewriteRule ^קבלן-תשתיות$ /קבלן-תשתיות.html [L]
+RewriteRule ^קהל-לקוחותינו$ /קהל-לקוחותינו.html [L]
