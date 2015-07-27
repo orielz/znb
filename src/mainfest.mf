@@ -16,4 +16,4 @@ images/slider-img1.jpg
 images/slider-img2.jpg
 images/slider-img3.jpg
 images/slider-img4.jpg
-images/page1-img1.jpg
+images/page1-img1.png

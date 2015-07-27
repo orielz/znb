@@ -194,6 +194,10 @@ a {
 }
 .extra-wrap {
   overflow: hidden;
+  &.about-company {
+    width: 337px;
+  }
+
 }
 p {
   margin-bottom: 18px;
@@ -290,6 +294,13 @@ p {
 .img-indent {
   float: left;
   margin: 0 20px 0 0;
+
+  &.profile-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
 }
 .img-indent2 {
   float: left;
